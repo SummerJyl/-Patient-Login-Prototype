@@ -4,5 +4,5 @@ I used modern CSS, HTML and JavaScript to create a Login page design with login 
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](Login.png)
+![LogIn](https://github.com/SummerJyl/Login-Page/assets/137237074/423b61bd-12ed-47d5-bd55-abfc8db04d0e)
 
