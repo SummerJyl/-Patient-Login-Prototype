@@ -1,16 +1,35 @@
-# Modern Login Page
+# 🔐 BioHealth Secure Login
 
-I used modern HTML, CSS, and JavaScript to create a login page design featuring login and create-account animations. CSS Flexbox is used for layout, along with CSS keyframes to transition between animation effects.
+A modern, responsive login page built with HTML, CSS, and JavaScript, featuring smooth login and create-account animations. Designed with CSS Flexbox layout and CSS keyframe transitions to create an engaging authentication experience tailored for Bio Health applications.
 
-## Screenshot
+---
+
+## 📸 Screenshot
 
 ![Login Screenshot](assets/login.png)
 
-## Tutorial
+---
 
-In this tutorial ([Open in YouTube](https://youtu.be/YecGQFKf6q0), I'm going to show you how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations. We'll be using CSS Flexbox, CSS transitions for some cool animation effects, and CSS keyframes!
+## 🎥 Tutorial
 
-## About AsmrProg
+Check out the tutorial to learn how this login page was built with modern web technologies, animations, and responsive design:  
+[Open on YouTube](https://youtu.be/YecGQFKf6q0)
 
-We create a project every 4 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube</a> channel.  
-You can vote for upcoming projects on our channel **community** page :wink:
+---
+
+## 💡 About
+
+This project demonstrates clean, accessible UI/UX design with animation effects suitable for health industry portals requiring secure and user-friendly authentication flows.
+
+---
+
+## 🔗 Related Projects
+
+- [Bio Health Data Explorer](https://github.com/SummerJyl/your-bio-health-data-explorer-repo)  
+- [Personal Finance Dashboard](https://github.com/SummerJyl/your-personal-finance-dashboard-repo)
+
+---
+
+## 📄 License
+
+[Specify your license, if any]
