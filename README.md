@@ -4,12 +4,6 @@ This project demonstrates a modern, secure Login & Account Creation UI tailored 
 
 ---
 
-## 📸 Screenshot
-
-![Login Screenshot](assets/login.png)
-
----
-
 ## 🎥 Tutorial
 
 Check out the tutorial to learn how this login page was built with modern web technologies, animations, and responsive design:  
@@ -30,6 +24,7 @@ Check out the tutorial to learn how this login page was built with modern web te
 💡 Built with scalability and modularity in mind
 
 ---
+
 🛠️ Tech Stack
 HTML5 & CSS3
 
@@ -42,6 +37,26 @@ Keyframes for animations
 Developed using VS Code
 
 ---
+## 📸 Screenshot
+
+![Login Screenshot](assets/login.png)
+
+---
+## Getting Started
+### Clone + Run Locally
+...
+---
+
+## Project Structure
+patient-login-prototype/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── /screenshots
+│   └── responsive-login.jpeg
+---
+
 🎯 Bio Health Use Cases
 This UI prototype is ideal for:
 
@@ -59,6 +74,15 @@ Wellness program login workflows
 - [Bio Health Data Explorer](https://github.com/SummerJyl/your-bio-health-data-explorer-repo)  
 - [Personal Finance Dashboard](https://github.com/SummerJyl/your-personal-finance-dashboard-repo)
 
+---
+Future Enhancements
+Backend integration for form submission
+
+Error validation and accessibility improvements
+
+Add “Forgot Password?” recovery flow
+
+Enhanced animations or biometric login mockups
 ---
 
 ## 📄 License
