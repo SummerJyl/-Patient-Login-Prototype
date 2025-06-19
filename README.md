@@ -1,6 +1,6 @@
-# 🔐 BioHealth Secure Login
+# 🧬 Patient Login Prototype
 
-A modern, responsive login page built with HTML, CSS, and JavaScript, featuring smooth login and create-account animations. Designed with CSS Flexbox layout and CSS keyframe transitions to create an engaging authentication experience tailored for Bio Health applications.
+This project demonstrates a modern, secure Login & Account Creation UI tailored for applications in the Bio Health industry. Designed with patients and clinicians in mind, this prototype is responsive, accessible, and visually clean — ideal for patient portals, health dashboards, or wellness platforms.
 
 ---
 
@@ -16,13 +16,44 @@ Check out the tutorial to learn how this login page was built with modern web te
 [Open on YouTube](https://youtu.be/YecGQFKf6q0)
 
 ---
+ ✨ Features
+🔐 Dual-panel Login + Create Account toggle
 
-## 💡 About
+✅ Client-side validation (email format, password strength)
 
-This project demonstrates clean, accessible UI/UX design with animation effects suitable for health industry portals requiring secure and user-friendly authentication flows.
+🧭 Clear visual hierarchy for a patient-first experience
+
+📱 Mobile-responsive design
+
+🎨 CSS keyframe animations for smooth transitions
+
+💡 Built with scalability and modularity in mind
 
 ---
+🛠️ Tech Stack
+HTML5 & CSS3
 
+JavaScript (ES6+)
+
+Flexbox for layout
+
+Keyframes for animations
+
+Developed using VS Code
+
+---
+🎯 Bio Health Use Cases
+This UI prototype is ideal for:
+
+Secure patient login portals
+
+Telehealth sign-in pages
+
+Personalized health tracker dashboards
+
+Wellness program login workflows
+
+---
 ## 🔗 Related Projects
 
 - [Bio Health Data Explorer](https://github.com/SummerJyl/your-bio-health-data-explorer-repo)  
